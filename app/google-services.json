@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068938611238",
+    "project_id": "blind-eye-app",
+    "storage_bucket": "blind-eye-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068938611238:android:1e5b4c024bea3794bb74e7",
+        "android_client_info": {
+          "package_name": "com.example.blind_eye_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068938611238-bfmk3p8h2hsodveql5p0m7i7ljiaq78s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBcNpOpltycO9fY_JqhKXgF-qM3fLahc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068938611238-bfmk3p8h2hsodveql5p0m7i7ljiaq78s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
