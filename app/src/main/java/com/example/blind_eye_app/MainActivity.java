@@ -9,7 +9,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-    private Button login;
+    private Button login, register;
     private TextView email;
     private TextView password;
 
@@ -19,6 +19,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         login = findViewById(R.id.login);
+        register = findViewById(R.id.register);
+        email = findViewById(R.id.email);
+        password = findViewById(R.id.password);
 
         login.setOnClickListener(new View.OnClickListener() {
             @Override
